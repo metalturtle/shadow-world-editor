@@ -1,0 +1,35 @@
+{
+	"bump_map": {
+		"black_tile": "black_tile_bump.png",
+		"folder": "levels"
+	},
+	"shader": {
+		"bump_map": "bumplight.glsl",
+		"shadow_map": "shadowmap1D.glsl",
+		"sprite_light": "sprite.glsl",
+		"folder": "shaders",
+		"test": "test.glsl",
+		"shadow_render": "shadowRender.frag",
+		"vertex_shader": "pass.vert",
+		"apply_light": "fragment.glsl"
+	},
+	"basic_texture": {
+		"folder": "levels",
+		"red": "red.png",
+		"wall2": "wall2.png",
+		"edge": "edge.png",
+		"white": "white.png",
+		"spark": "spark.png",
+		"wall1": "wall1.png",
+		"dust": "dust2.png",
+		"black": "black.png",
+		"night_sky": "night_sky.png",
+	},
+	"texture": {
+		"folder": "levels",
+	},
+	"animation": {
+		"anim_file": "player.txt",
+		"folder": "levels//playeranims"
+	}
+}

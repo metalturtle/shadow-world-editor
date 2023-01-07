@@ -1,0 +1,3 @@
+sprNickeLegs.png 4 4 0.06 sprNickeDeadCut.png 3 1 3
+0 sprNickeWalkMachinegun.png 4 2 sprNickeAttackMachinegun.png 1 3
+1 sprNickeWalkHeavy.png 2 4 sprNickeAttackHeavy.png 1 2
